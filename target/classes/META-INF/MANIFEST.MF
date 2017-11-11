@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: snow-wechat
+Implementation-Version: 0.1.0-SNAPSHOT
+Built-By: wangshiguo
+Implementation-Vendor-Id: com.snow
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/snow-wechat/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
